@@ -27,7 +27,7 @@ To clone the repository to your local machine using Git, follow these steps:
 
 To download the project files as a ZIP archive, follow these steps:
 
-## Visit the Repository: Go to the GitHub repository page: Simple Bootstrap Contact Form
+## Visit the Repository: Go to the GitHub repository page: Simple Bootstrap Landing Page
 
 **1. Download the ZIP File: Click on the Code button, then select Download ZIP.**
 
